@@ -1,0 +1,60 @@
+/*Estilo Para o Titulo H1*/
+h1 {
+    color: navy;
+    text-align: center;
+}
+
+h2 {
+    color: violet;
+    text-align: right;
+    text-decoration: underline;
+}
+
+p {
+    text-align: center;
+    color: rgb(255, 174, 0);
+}
+
+/*Estilo para Paragrafos com a classe destaque*/
+.Destaque {
+    color: red;
+    font-size: 18px;
+    text-align: center;
+}
+
+/*Estilo para o titulo h1*/
+#titulo {
+    color: navy;
+    text-align: center;
+}
+
+/*estilo para navegação*/
+nav ul {
+    list-style-type: armenian;
+    padding: 10px;
+    background-color: lightgray;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    text-decoration: none;
+    padding: 10px 20px;
+    color: black;
+}
+
+/*Estilo para seção com a classe DESTAQUE*/
+.Destaque {
+    background-color: rgb(255, 0, 0);
+    padding: 20px;
+}
+
+/*estilo rodapé*/
+footer {
+    background-color: rgb(255, 251, 0);
+    text-align: center;
+    padding: 10px;
+}
